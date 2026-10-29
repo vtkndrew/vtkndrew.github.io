@@ -6,8 +6,8 @@
     BlinkMacSystemFont,
     'Segoe UI',
     sans-serif;
-  background: #f7f8f3;
-  color: #28483b;
+  background: #fafafa;
+  color: #222222;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
 }
@@ -21,7 +21,7 @@ a {
   color: inherit;
 }
 a:focus-visible {
-  outline: 3px solid #91a773;
+  outline: 3px solid #525252;
   outline-offset: 5px;
 }
 img {

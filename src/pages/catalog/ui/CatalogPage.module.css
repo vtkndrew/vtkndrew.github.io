@@ -12,7 +12,7 @@
   justify-content: space-between;
   gap: 16px;
   padding-bottom: 24px;
-  border-bottom: 1px solid #dfe5d9;
+  border-bottom: 1px solid #dddddd;
 }
 .wordmark {
   display: flex;
@@ -24,7 +24,7 @@
 }
 .wordmark > span {
   font-weight: 400;
-  color: #7c887a;
+  color: #686868;
 }
 .github {
   font-size: 0.85rem;
@@ -37,7 +37,7 @@
   font-size: 0.65rem !important;
   letter-spacing: 0.16em;
   text-transform: uppercase;
-  color: #71856b !important;
+  color: #626262 !important;
 }
 .intro h1 {
   font-size: clamp(2rem, 7vw, 3.7rem);
@@ -48,7 +48,7 @@
 }
 .intro p {
   font-size: 1rem;
-  color: #7b8779;
+  color: #626262;
   line-height: 1.8;
 }
 .sectionTitle {
@@ -64,7 +64,7 @@
 }
 .sectionTitle span {
   font-size: 0.65rem;
-  color: #8c9687;
+  color: #666666;
   text-transform: uppercase;
   letter-spacing: 0.08em;
 }
@@ -73,8 +73,8 @@
   gap: 20px;
 }
 .card {
-  border: 1px solid #dbe3d5;
-  border-radius: 24px;
+  border: 1px solid #dddddd;
+  border-radius: 12px;
   background: #fff;
   padding: 28px;
   display: flex;
@@ -87,11 +87,11 @@
   justify-content: space-between;
 }
 .cardTop img {
-  border-radius: 20px;
+  border-radius: 16px;
 }
 .cardTop > span {
   font-size: 0.75rem;
-  color: #b5bfad;
+  color: #707070;
 }
 .card h3 {
   font-size: 1.6rem;
@@ -101,7 +101,7 @@
 }
 .card p {
   font-size: 0.9rem;
-  color: #7c8977;
+  color: #626262;
   line-height: 1.8;
   margin: 0 0 28px;
 }
@@ -117,19 +117,19 @@
   align-items: center;
   gap: 12px;
   min-height: 48px;
-  border-radius: 12px;
+  border-radius: 6px;
   padding: 14px 18px;
-  background: #2c5444;
+  background: #252525;
   color: white;
   text-decoration: none;
   font-size: 0.85rem;
 }
 .open:hover {
-  background: #214334;
+  background: #444444;
 }
 .source {
   font-size: 0.75rem;
-  color: #7c8977;
+  color: #626262;
   align-self: flex-start;
   text-underline-offset: 4px;
 }
@@ -141,7 +141,7 @@
   justify-content: space-between;
   gap: 16px;
   font-size: 0.7rem;
-  color: #8c9686;
+  color: #666666;
 }
 .page main {
   padding-bottom: 32px;
