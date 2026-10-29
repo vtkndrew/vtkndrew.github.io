@@ -1,0 +1,10 @@
+[
+  {
+    "id": "pyramids",
+    "title": "Пирамидки",
+    "description": "Знакомая головоломка с новым ритмом. Переносите диски, пробуйте хардкор и возвращайтесь к своей партии.",
+    "url": "https://vtkndrew.github.io/pyramids/",
+    "repository": "https://github.com/vtkndrew/pyramids",
+    "icon": "/icons/pyramids.svg"
+  }
+]
