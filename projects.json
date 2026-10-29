@@ -6,5 +6,13 @@
     "url": "https://vtkndrew.github.io/pyramids/",
     "repository": "https://github.com/vtkndrew/pyramids",
     "icon": "/icons/pyramids.svg"
+  },
+  {
+    "id": "blood-pressure-diary",
+    "title": "Дневник давления и пульса",
+    "description": "Сохраняйте измерения, замечайте изменения на графиках и берите историю с собой. Работает офлайн, данные остаются на устройстве.",
+    "url": "https://vtkndrew.github.io/blood-pressure-diary/",
+    "repository": "https://github.com/vtkndrew/blood-pressure-diary",
+    "icon": "/icons/blood-pressure-diary.svg"
   }
 ]
