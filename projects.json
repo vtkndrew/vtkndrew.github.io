@@ -14,5 +14,13 @@
     "url": "https://vtkndrew.github.io/blood-pressure-diary/",
     "repository": "https://github.com/vtkndrew/blood-pressure-diary",
     "icon": "/icons/blood-pressure-diary.svg"
+  },
+  {
+    "id": "snooker-score",
+    "title": "Счёт снукера",
+    "description": "Считайте очки одним касанием. Серии, фреймы и история матчей на вашем телефоне — даже без интернета.",
+    "url": "https://vtkndrew.github.io/snooker-score/",
+    "repository": "https://github.com/vtkndrew/snooker-score",
+    "icon": "/icons/snooker-score.svg"
   }
 ]
