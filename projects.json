@@ -22,5 +22,13 @@
     "url": "https://vtkndrew.github.io/snooker-score/",
     "repository": "https://github.com/vtkndrew/snooker-score",
     "icon": "/icons/snooker-score.svg"
+  },
+  {
+    "id": "dune-imperium-timer",
+    "title": "Dune Imperium Timer",
+    "description": "Личные часы для каждого решения: герои, раскрытие, сражения и история партий. Работает офлайн, поддерживает перенос игр через JSON.",
+    "url": "https://vtkndrew.github.io/dune-imperium-timer/",
+    "repository": "https://github.com/vtkndrew/dune-imperium-timer",
+    "icon": "/icons/dune-imperium-timer.svg"
   }
 ]
